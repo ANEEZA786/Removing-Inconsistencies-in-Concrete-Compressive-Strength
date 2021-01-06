@@ -4,12 +4,14 @@ The reason for this difficulties was that the existing clients had complaints re
 mouth in the market, was making it tough for sales executives for company to seal deals with potential customers.</body>
 
 <h3>Libraries Needed</h3>
-1- Python 3.x
-2- Numpy
-3- random
-4- Opencv
-5- sklearn
-6- matplotlib
-7- seaborn
+<ol>
+  <li>Python 3.x</li>
+  <li>Numpy</li>
+  <li>random</li>
+  <li>Opencv</li>
+  <li>sklearn</li>
+  <li>matplotlib</li>
+  <li>seaborn</li>
+</ol>
 
 
