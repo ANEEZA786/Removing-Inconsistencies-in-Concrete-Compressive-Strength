@@ -7,11 +7,10 @@ mouth in the market, was making it tough for sales executives for company to sea
 <ol>
   <li>Python 3.x</li>
   <li>Numpy</li>
-  <li>random</li>
-  <li>Opencv</li>
+  <li>scipy</li>
   <li>sklearn</li>
   <li>matplotlib</li>
   <li>seaborn</li>
 </ol>
-
+</body>
 
